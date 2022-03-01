@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the creditors of Sir Robert Vyner</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09150</idno>
+            <idno type="STC">Wing F1430C</idno>
+            <idno type="STC">ESTC R177152</idno>
+            <idno type="EEBO-CITATION">64551276</idno>
+            <idno type="OCLC">ocm 64551276</idno>
+            <idno type="VID">184577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184577)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the creditors of Sir Robert Vyner</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Viner, Robert, --  Sir, 1631-1688 --  Trials, litigation, etc.</term>
+               <term>Debtor and creditor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:184577:1" rendition="simple:additions"/>
+            <head>
+               <hi>For the</hi> Creditors <hi>of Sir</hi> ROBERT VYNER,</head>
+            <p>VV Hereas Sir <hi>Robert Vyner</hi> did publiſh his Propoſals to his Creditors, the 12th of <hi>December</hi> laſt; and whereas the Ge<g ref="char:EOLhyphen"/>nerality, and moſt Conſiderable of the ſaid Creditors, have declared their good liking of the ſaid Propoſals; as being the utmoſt of what his Eſtate ſold to the beſt advantage, and by his own Aſſiſtance, can make good, yet have forborn or delay'd to ſubſcribe thereunto, the time prefixed for their payment being very ſhort, <hi>viz.</hi> The 25th of this Inſtant <hi>March,</hi> which notwithſtanding, had certainly been performed, if comply<g ref="char:EOLhyphen"/>ed with on their part.</p>
+            <p>But now very lately, ſome Neceſſitous Perſons, in hopes of gaining a profitable Employment to themſelves, with much pains, prevailed with a few of his Creditors, by the hopes given them of having Preferrence to all others in their ſatisfaction, to procure a Commiſſion upon the Statute of Bankrupts againſt the ſaid <hi>Sir Robert Vyner;</hi> which Proceeding, though the moſt diſgraceful to the ſaid Sir <hi>Robert Vyner,</hi> and extreamly burdenſome to his mind, and that Statute ſuppoſed never to be deſign'd, as now uſed, a<g ref="char:EOLhyphen"/>gainſt men, that are deſirous honeſtly to ſell their Eſtates <hi>bona fide,</hi> for their Creditors ſatisfaction, (and eſpecially under ſuch Circumſtances which are without preſident) which he hath in Print twice made known, and offered to his Creditors.</p>
+            <p>Yet notwithſtanding all this Uſage, nothing ſhall prevail upon him to prejudice the leaſt of his Creditors, but he doth hereby declare, that he is reſolved ſtill to make good his firſt Propoſal, if the Eſtate be not waſted, by their further delay and expence; though it be by the ſtripping of him<g ref="char:EOLhyphen"/>ſelf of his Eſtate, and leaving of himſelf and Family to the Providence of Almighty God, and the Compaſſion of His Majeſty.</p>
+            <p>By which Propoſals, he obligeth himſelf to pay in Money, Twenty Pound, upon every Hundred Pound Principal, with all the Intereſt; which is generally about Twenty Pound <hi>per Cent</hi> more at leaſt, and the remaining Eighty Pound to be ſecured upon the Exciſe, then which no greater Secu<g ref="char:EOLhyphen"/>curity can be given by the King to his people; but as this cannot poſſibly be accompliſhed, or ever was by any other means, but by the Subſcription of the Creditors, which he doth earneſtly for many reaſons, and for theit own ſakes recommend to them; ſo for the better diſpatch, and that ſuch as are Executors or Truſtees to any of the Creditors, may Subſcribe; The ſaid Sir <hi>Robert Vyner</hi> doth declare, That though it be moſt irkſome to him, yet if he may finiſh his buſineſs thereby with effect, he will ſubmit to ſuch Commiſſion upon the Statute, to which he ſuppoſes himſelf neither obli<g ref="char:EOLhyphen"/>ged nor lyable; and if he ſhould be <hi>adjudged ſubject</hi> to the ſaid Commiſſion, he may confidently ſay, that the Commiſſioners with all their skill and ex<g ref="char:EOLhyphen"/>pence, and ſeven Years Labour, will never be able to clear from difficulties without his own aid and aſſiſtance, near enough to ſatisfie the Creditors, what is above propoſed, whatever Conceit ſome ignorant perſons may in<g ref="char:EOLhyphen"/>ſinuate to the contrary.</p>
+            <pb facs="tcp:184577:2"/>
+            <p>And it is further hereby ſignified, That the Subſcriptions formerly made by many worthy Creditors will be of no uſe, by reaſon of this Alteration, but they are deſired to ſign the new Paper, to the ſame effect for that pur<g ref="char:EOLhyphen"/>poſe provided.</p>
+            <p>And for Encouragement of his Creditors, to ſubſcribe the ſaid Propoſal, there ſhall within thirty days after ſuch Subſcription, ſufficient Effects be delivered to the Commiſſioners, by them to be veſted in Truſtees, by the Creditors to be choſen, for ſatisfaction of the ſaid Propoſals.</p>
+            <p>But if all his Endeavours herein, for the honeſt diſcharge of his Debts, ſhall prove ineffectual, and no conſideration had of his Sufferings by the Publick, and vaſt loſſes in his Debts and otherwiſe, ſince the ſtop in the Exchequer, amounting to above Sixty Thouſand Pound, for which he asks no allowance from any Creditor, this Paper will be a witneſs for him, Li<g ref="char:EOLhyphen"/>ving or Dead, how deſirous he was to prevent the great diſappointment, which he knows will enſue upon any other Courſe; praying them to re<g ref="char:EOLhyphen"/>member, that by this propoſition, every man would have received 73 <hi>l. 10 s.</hi> upon every 100 <hi>l.</hi> for the Intereſt Money, to the 25th Inſtant, ſince the ſaid ſtop, and 20 <hi>l.</hi> upon the Principal, making in all 93 <hi>l. 10 s.</hi> Beſides 80 <hi>l.</hi> charged upon the Exciſe, from which they may juſtly expect a per<g ref="char:EOLhyphen"/>petual Intereſt of 6 <hi>l. per Cent.</hi>
+            </p>
+            <p>And it is deſired, That ſuch of the Creditors, who live at too great a diſtance, or cannot come in perſon to ſign the Agreement, which for that purpoſe, will be left at the Vine in <hi>Lumbard-ſtreet London,</hi> where he the ſaid Sir <hi>Robert Vyner</hi> formerly Dwelt, will be pleaſed to Sign and Seal the ſame before Two Credible Witneſſes, and ſend the ſame thither, or elſe impow<g ref="char:EOLhyphen"/>er ſome perſon by Letter of Attorney, to repair thither, and Sign and Seal the ſame on their behalf.</p>
+            <p>And there is an abſolute neceſſity of doing this with expedition, in regard before the Sealing of the Commiſſion, the Lord Keeper did order that the Commiſſioners thereby appointed ſhould ſit, and then adjourn till next Term, that in the mean time Endeavours might be uſed to compoſe the matters; Sir <hi>Robert</hi> knows no probable way either of Compoſure or Diſ<g ref="char:EOLhyphen"/>patch, but Signing the ſaid <hi>Propoſals,</hi> which the Council for the Creditors (at the hearing) did aver to my Lord, his Clyents were <hi>willing</hi> to accept of; which if Signed with expedition, <hi>will</hi> prevent the Creditors a great Charge by the Commiſſioners.</p>
+            <closer>
+               <dateline>London,
+<date>
+                     <hi>March</hi> 22. 1683.</date>
+               </dateline> The Paper to be Subſcribed, is that which follow.</closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:184577:2"/>
+            <p>
+               <seg rend="decorInit">W</seg>HERE AS Sir <hi>Robert Vyner,</hi> hath Signified to his Creditors, That he is deſirous to ſatisfie Four fifth parts of their Principal Debts, by Aſſignments of proportionable parts of the Yearly Rent or Sum granted to him by His Majeſty out of the Exciſe, and th'other fifth part in Moneys with all their Ar<g ref="char:EOLhyphen"/>rears of Intereſt; The ſaid one fifth part, and all ſuch Iatereſt to be paid by the Sale and Diſpoſition of his other Eſtate: NOW WE whoſe Names are hereunto Subſcribed, Creditors of the ſaid Sir <hi>Robert Vyner,</hi> for our ſelves reſpe<g ref="char:EOLhyphen"/>ctively, and for our Reſpective Executors or Adminiſtrators and their Acts, but not the one for the other, or others his, or their Executors or Adminiſtrators, do hereby Declare, Covenant and Agree with the ſaid Sir <hi>Robert Vyner,</hi> his Heirs, Executors, and Adminiſtrators; That we the ſaid Creditors, our Executors and Adminiſtrators reſpectively from the ſaid Sir <hi>Robert Vyner,</hi> alone or together with <hi>Henry Lewis,</hi> and <hi>Richard Startford,</hi> or either of them, ſhall and will in ſuch manner, and under ſuch Qualifications and Reſtrictions, as are herein after Expreſt, accept of ſuch Aſſign<g ref="char:EOLhyphen"/>ments and Conveyances to us and our Heirs and Aſſigns reſpectively, or to ſuch as we reſpectively ſhall appoint, and to their Heirs and Aſſigns reſpectively, of ſuch propor<g ref="char:EOLhyphen"/>tions of the Yearly Rent or Sum of 25003 <hi>l. 9 s. 4 d.</hi> Granted by his Majeſty to the ſaid Sir <hi>Robert Vyner,</hi> his Heirs and Aſſigns, as the Yearly Intereſt, at the Rate of Six Pound <hi>per Cent. per Anum,</hi> of four fifth parts of our Reſpective Principal Debts do amountunto. And that upon payment of ſuch Sum sof Money as aforeſaid, and at the fealing and deliver of ſuch Reſpective Aſſignments and Conveyances, we reſpective<g ref="char:EOLhyphen"/>ly ſhall and will deliver up and diſcharge all ſuch Securities and Evidences, as we re<g ref="char:EOLhyphen"/>ſpectively have of or for our Reſpective Debts.</p>
+            <p>PROVIDED always, and that for the Encouragement of all the ſaid Sir <hi>Robert Vyner</hi>'s Creditors to Sign and Seal theſe Preſents, and that they may not be prejudiced thereby, or be in a worſe condition then any Diſſenting Creditors, if any ſuch ſhall be; That theſe Preſents, nor any thing herein contained, be not any bar or hindrance unto us, or any of us ſubſcribing theſe Preſents, our Executors and Adminiſtrators, from coming into, and joyning in the Execution of, and taking the bene fit of any Com<g ref="char:EOLhyphen"/>miſſion or Commiſſions of Bankrupts already granted and iſſued out, or to be at any time hereafter Iſſued out againſt the ſaid Sir <hi>Robert Vyner,</hi> and all Divident and Di<g ref="char:EOLhyphen"/>vidents upon them or any of them to be made, of all or any of the Eſtate of the ſaid Sir <hi>Robert Vyner;</hi> Yet ſo as nevertheleſs, when we the ſaid Creditors ſhall have received the ſaid Twenty Pound <hi>Per Cent,</hi> of our Reſpective Principal Debts; as al<g ref="char:EOLhyphen"/>of all Intereſt due to us as aforeſaid, upon, or by vertue of any ſuch Commiſſion or o<g ref="char:EOLhyphen"/>therwiſe. And the ſaid Sir <hi>Robert Vyner,</hi> his Heirs, Executors or Adminiſtrators, ſhall Seal and Execute unto us, or to the uſe of us our Heirs and Aſſigns; And ſend and leave the ſame for our Uſe and uſes, at the late Dwelling-Houſe of the ſaid Sir <hi>Robert Vyner,</hi> called the <hi>Vine</hi> in <hi>Lumbard-ſtreet Londen;</hi> An Aſſignment of ſuch pro<g ref="char:EOLhyphen"/>portions of his the ſaid Sir <hi>Robert Vyners</hi> Yearly Rent of Twenty-five Thouſand Three Pounds Nine Shillings and four pence, as is herein before-mentioned and Expreſſed: That then we and each of us our Executors and Adminiſtrators, ſhall and will deliver up our and every of our Bonds and Securities for our Debts as afore<g ref="char:EOLhyphen"/>faid; And that then, and from thenceſorth, all and every Bond, and other Security whatſoever, which we or any of us, have for our, or any of our Reſpective Debts, ſhall from thenceforth be utterly Void, and of none Effect: Theſe preſents or any thing herein contained, to the contrary thereof, in any wiſe not withſtanding; Or, if we the ſaid Creditors ſhall by Vertue of any ſuch Commiſſion, or otherwiſe, re<g ref="char:EOLhyphen"/>ceive more than the ſaid Twenty Pounds <hi>per Cent,</hi> of our Reſpective Principal debts, and all Intereſt due to us as aforeſaid; And the ſaid <hi>Sir Robert Vyner,</hi> His Heirs Executors or Adminiſtrators, ſhall ſeal and Execute unto us, or to the Uſe of our Heirs and Aſſigns, and tender and leave the ſame at the place aforeſaid, an Aſſign<g ref="char:EOLhyphen"/>ment of ſuch part of his ſaid Yearly Rent iſſuing out of the Exciſe as aforeſaid, as the Remainder of our Reſpective Debts ſhall amount unto; That then alſo we and each of us, our Executors and Adminiſtrators, ſhall and will deliver up our and every of our Bonds and Securities for our Debts as aforeſaid, And that then, and from thenceforth, all and every Bond, and other Security whatſoever, which we or any of us have for our, or any of our Reſpective Debts, ſhall from thenceforth be utterly void, and of none effect; Theſe Preſents, or any thing herein contained to the contrary thereof in any wiſe notwithſtanding.</p>
+            <pb facs="tcp:184577:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
